@@ -1,0 +1,398 @@
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\ApplicationInsights.config
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\csc.exe
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\vbc.exe
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll.config
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\WaffleTruck.pdb
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\EntityFramework.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Owin.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\System.Web.Providers.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\WebGrease.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.pdb
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\EntityFramework.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\System.Web.Providers.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.csprojResolveAssemblyReference.cache
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.dll
+C:\Users\Curtis\Documents\Visual Studio 2015\Projects\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.pdb
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\ApplicationInsights.config
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\csc.exe
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\vbc.exe
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll.config
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\WaffleTruck.pdb
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\EntityFramework.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Owin.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\System.Web.Providers.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\WebGrease.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.pdb
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\EntityFramework.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\System.Web.Providers.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.dll
+C:\Users\Luke\Desktop\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.pdb
+C:\Users\Grady\Desktop\WaffleTruck - Updated\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.csprojResolveAssemblyReference.cache
+C:\Users\Grady\Desktop\WaffleTruck - Updated\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.dll
+C:\Users\Grady\Desktop\WaffleTruck - Updated\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.pdb
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.csprojResolveAssemblyReference.cache
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.pdb
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\ApplicationInsights.config
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\csc.exe
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\vbc.exe
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll.config
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\WaffleTruck.pdb
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\EntityFramework.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Owin.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\System.Web.Providers.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\WebGrease.dll
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.pdb
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\EntityFramework.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\System.Web.Providers.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Curtis\Downloads\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.csprojResolveAssemblyReference.cache
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.pdb
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\ApplicationInsights.config
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\csc.exe
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\vbc.exe
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll.config
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\WaffleTruck.pdb
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\EntityFramework.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Owin.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\System.Web.Providers.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\WebGrease.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.pdb
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\EntityFramework.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\System.Web.Providers.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\ApplicationInsights.config
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\csc.exe
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\vbc.exe
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll.config
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\WaffleTruck.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\WaffleTruck.pdb
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\EntityFramework.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Owin.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\System.Web.Providers.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\WebGrease.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.Web.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\System.Web.Optimization.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Antlr3.Runtime.pdb
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Newtonsoft.Json.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\EntityFramework.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\EntityFramework.SqlServer.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\System.Web.Providers.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.csprojResolveAssemblyReference.cache
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.dll
+C:\Users\Grady\Desktop\WaffleTruck\WaffleTruck\obj\Debug\WaffleTruck.pdb
