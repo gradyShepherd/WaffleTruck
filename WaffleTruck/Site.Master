@@ -39,7 +39,13 @@
                 <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
-
+        <asp:Repeater ID="Repeater1" runat="server"> 
+          <ItemTemplate> 
+            <a target="_blank" href='<%# XPath("link") %>'> 
+            <%# System.Web.HttpUtility.HtmlEncode(XPath("title").ToString())%> 
+            </a><br /> 
+          </ItemTemplate> 
+        </asp:Repeater> 
         <div class="navbar navbar-inverse navbar-fixed-top" style="position: absolute; top:0; left:0">
             <div class="container">
                 <div class="navbar-header">

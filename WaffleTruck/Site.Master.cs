@@ -17,9 +17,15 @@ namespace WaffleTruck
         private const string AntiXsrfUserNameKey = "__AntiXsrfUserName";
         private string _antiXsrfTokenValue;
         protected int userId;
+        XmlDataSource xds = new XmlDataSource();
+        
 
         protected void Page_Init(object sender, EventArgs e)
         {
+            /*xds.XPath = "rss/channel/item";
+            xds.DataFile = "";
+            Repeater1.DataSource = xds;
+            Repeater1.DataBind();*/
             // The code below helps to protect against XSRF attacks
             var requestCookie = Request.Cookies[AntiXsrfTokenKey];
             Guid requestCookieGuidValue;
