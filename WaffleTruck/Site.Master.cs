@@ -8,6 +8,7 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 using Microsoft.AspNet.Identity;
 using System.Web.Providers.Entities;
+using System.IO;
 
 namespace WaffleTruck
 {
@@ -18,14 +19,9 @@ namespace WaffleTruck
         private string _antiXsrfTokenValue;
         protected int userId;
         XmlDataSource xds = new XmlDataSource();
-        
 
         protected void Page_Init(object sender, EventArgs e)
         {
-            /*xds.XPath = "rss/channel/item";
-            xds.DataFile = "";
-            Repeater1.DataSource = xds;
-            Repeater1.DataBind();*/
             // The code below helps to protect against XSRF attacks
             var requestCookie = Request.Cookies[AntiXsrfTokenKey];
             Guid requestCookieGuidValue;
@@ -99,6 +95,11 @@ namespace WaffleTruck
                 WebUserControl1.Visible = false;
                 OrderHistoryLink.Visible = false;
             }
+
+            xds.XPath = "rss/channel/item";
+            xds.DataFile = "newfeed.xml";
+            Repeater1.DataSource = xds;
+            Repeater1.DataBind();
 
             string user = username.Text;
             string pass = password.Text;

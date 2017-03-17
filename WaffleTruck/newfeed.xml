@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stuff>
+<news>
+	<title>Man Creates Giant Pixelated Carpet</title>
+	<image>carpet.jpg</image>
+	<date>03/01/2017</date>
+	
+	<description>
+		A former student of Oxford University has created a giant pixelated carpet that sold for 1.4 million dollars. The money has been since donated to the San-Diego zoo to install a new crocodile exhibit.
+	</description>
+</news>
+
+<news>
+	<title>Famous german actor's wife passes away at 48</title>
+	<date>03/02/2017</date>
+	<image>funeral.gif</image>
+	
+	<description>
+		Willhelm Vinderhelm's lovely wife passed away today at the ripe age of 48.
+		A sad and tragic tale, and thus she will be missed dearly. She is survived by her husband and two children. Also her name is Cassandra Davenport.
+	</description>
+</news>
+
+<news>
+	<title>Batman's identity is revealed as the lady with yellow skin!</title>
+	<image>yellowwoman.png</image>
+	<date>03/03/2017</date>
+	
+	<description>
+		Breaking news that Batman's actual identity is yellow skin girl, who has been revealed and because she had been caught not wearing a mask and tried to cover it up with a strange hand gesture.
+	</description>
+</news>
+  </stuff>

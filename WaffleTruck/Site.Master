@@ -42,7 +42,7 @@
         <asp:Repeater ID="Repeater1" runat="server"> 
           <ItemTemplate> 
             <a target="_blank" href='<%# XPath("link") %>'> 
-            <%# System.Web.HttpUtility.HtmlEncode(XPath("title").ToString())%> 
+            <%# System.Web.HttpUtility.HtmlEncode(XPath("News Stuffs").ToString())%> 
             </a><br /> 
           </ItemTemplate> 
         </asp:Repeater> 

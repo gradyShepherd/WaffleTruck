@@ -215,6 +215,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="newfeed.xml" />
     <Content Include="OrderHistory.aspx" />
     <Content Include="WebUserControl.ascx" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
