@@ -24,6 +24,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <WcfConfigValidationEnabled>True</WcfConfigValidationEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -81,6 +82,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Drawing" />
@@ -219,6 +222,7 @@
     <Content Include="Images\funeral.gif" />
     <Content Include="newfeed.xml" />
     <Content Include="OrderHistory.aspx" />
+    <Content Include="WaffleService.svc" />
     <Content Include="WebUserControl.ascx" />
     <Content Include="xsltstylesheet.xsl" />
     <Content Include="Images\yellowwoman.png" />
@@ -414,6 +418,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="App_Code\IWaffleService.cs" />
     <Compile Include="Menu.aspx.cs">
       <DependentUpon>Menu.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -452,6 +457,9 @@
     <Compile Include="OrderHistory.aspx.designer.cs">
       <DependentUpon>OrderHistory.aspx</DependentUpon>
     </Compile>
+    <Compile Include="WaffleService.svc.cs">
+      <DependentUpon>WaffleService.svc</DependentUpon>
+    </Compile>
     <Compile Include="WebUserControl.ascx.cs">
       <DependentUpon>WebUserControl.ascx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -462,6 +470,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
