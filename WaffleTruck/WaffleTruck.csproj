@@ -202,6 +202,7 @@
     <Content Include="App_Data\Waffles_log.ldf">
       <DependentUpon>Waffles.mdf</DependentUpon>
     </Content>
+    <Content Include="Images\carpet.jpg" />
     <Content Include="Checkout.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap.css" />
@@ -215,9 +216,12 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Images\funeral.gif" />
     <Content Include="newfeed.xml" />
     <Content Include="OrderHistory.aspx" />
     <Content Include="WebUserControl.ascx" />
+    <Content Include="xsltstylesheet.xsl" />
+    <Content Include="Images\yellowwoman.png" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Menu.aspx" />
     <Content Include="Scripts\bootstrap.js" />

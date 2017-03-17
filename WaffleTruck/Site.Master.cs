@@ -96,10 +96,10 @@ namespace WaffleTruck
                 OrderHistoryLink.Visible = false;
             }
 
-            xds.XPath = "rss/channel/item";
+            xds.XPath = "xsltstylesheet.xsl";
             xds.DataFile = "newfeed.xml";
-            Repeater1.DataSource = xds;
-            Repeater1.DataBind();
+            //Repeater1.DataSource = xds;
+            //Repeater1.DataBind();
 
             string user = username.Text;
             string pass = password.Text;

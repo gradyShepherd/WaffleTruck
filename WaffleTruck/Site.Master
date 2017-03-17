@@ -39,13 +39,6 @@
                 <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
-        <asp:Repeater ID="Repeater1" runat="server"> 
-          <ItemTemplate> 
-            <a target="_blank" href='<%# XPath("link") %>'> 
-            <%# System.Web.HttpUtility.HtmlEncode(XPath("News Stuffs").ToString())%> 
-            </a><br /> 
-          </ItemTemplate> 
-        </asp:Repeater> 
         <div class="navbar navbar-inverse navbar-fixed-top" style="position: absolute; top:0; left:0">
             <div class="container">
                 <div class="navbar-header">
@@ -88,6 +81,9 @@
                 </div>
             </div>
         </div>
+        <asp:Xml id="Xml1" runat="server" DocumentSource="newfeed.xml" TransformSource="xsltstylesheet.xsl"></asp:Xml>
+  
+        <asp:XmlDataSource ID="XmlDataSource1" runat="server" DataFile="~/newfeed.xml" TransformFile="~/xsltstylesheet.xsl"></asp:XmlDataSource>
         <div style="margin-left: 20px;">
             <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:WaffleDatabase %>" SelectCommand="SELECT Id FROM admin WHERE (username = @userName) AND (password = @password)">
                 <SelectParameters>
