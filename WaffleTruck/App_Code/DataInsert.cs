@@ -17,7 +17,16 @@ public class DataInsert
         // TODO: Add constructor logic here
         //
     }
+    public int InsertComment(string comment)
+    {
+        DataAccess myAccess = new DataAccess();
+        SqlParameter[] parameters = new SqlParameter[1];
+        parameters[0] = new SqlParameter("comment", comment);
 
+        string query = "InsertComment";
+        int rows = myAccess.nonQuery(query, parameters);
+        return rows;
+    }
     public int InsertOrder(string name, string phone, string item)
     {
         DataAccess myAccess = new DataAccess();

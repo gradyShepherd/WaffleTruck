@@ -150,6 +150,25 @@ namespace WaffleTruck
         {
             Context.GetOwinContext().Authentication.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
         }
+
+        protected void btnSubmitComment_Click(object sender, EventArgs e)
+        {
+            if (commentBox.Text != "")
+            {
+                string userComment = "";
+                DataInsert dataInsert = new DataInsert();
+
+                invalidCommentInfo.Text = "";
+                userComment = commentBox.Text;
+                dataInsert.InsertComment(userComment);
+                ListView1.DataBind();
+                commentBox.Text = "";
+            }
+            else
+            {
+                invalidCommentInfo.Text = "Please enter a comment to submit";
+            }
+        }
     }
 
 }
