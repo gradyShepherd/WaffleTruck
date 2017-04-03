@@ -61,9 +61,4 @@ public class DataInsert
         int userId = myAccess.executeScalar(query, parameters);
         return userId;
     }
-    public void DisplayData()
-    {
-
-    }
-
 }

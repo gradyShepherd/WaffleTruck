@@ -160,6 +160,8 @@ namespace WaffleTruck
 
                 invalidCommentInfo.Text = "";
                 userComment = commentBox.Text;
+                //checks for xss attack
+                userComment = Server.HtmlEncode(userComment);
                 dataInsert.InsertComment(userComment);
                 ListView1.DataBind();
                 commentBox.Text = "";
