@@ -93,66 +93,70 @@
                 <p>
                     &nbsp;</p>
             </asp:ContentPlaceHolder>
-            <asp:ListView ID="ListView1" runat="server" DataSourceID="SqlDataSource1">
-                <AlternatingItemTemplate>
-                    <li style="background-color: #FFFFFF;color: #284775;">comment:
-                        <asp:Label ID="commentLabel" runat="server" Text='<%# Eval("comment") %>' />
+            <asp:UpdatePanel ID="commentUpdatePanel" runat="server" UpdateMode="Conditional">
+                <ContentTemplate>
+                        <asp:ListView ID="ListView1" runat="server" DataSourceID="SqlDataSource1">
+                            <AlternatingItemTemplate>
+                                <li style="background-color: #FFFFFF;color: #284775;">comment:
+                                    <asp:Label ID="commentLabel" runat="server" Text='<%# Eval("comment") %>' />
+                                    <br />
+                                </li>
+                            </AlternatingItemTemplate>
+                            <EditItemTemplate>
+                                <li style="background-color: #999999;">comment:
+                                    <asp:TextBox ID="commentTextBox" runat="server" Text='<%# Bind("comment") %>' />
+                                    <br />
+                                    <asp:Button ID="UpdateButton" runat="server" CommandName="Update" Text="Update" />
+                                    <asp:Button ID="CancelButton" runat="server" CommandName="Cancel" Text="Cancel" />
+                                </li>
+                            </EditItemTemplate>
+                            <EmptyDataTemplate>
+                                No data was returned.
+                            </EmptyDataTemplate>
+                            <InsertItemTemplate>
+                                <li style="">comment:
+                                    <asp:TextBox ID="commentTextBox" runat="server" Text='<%# Bind("comment") %>' />
+                                    <br />
+                                    <asp:Button ID="InsertButton" runat="server" CommandName="Insert" Text="Insert" />
+                                    <asp:Button ID="CancelButton" runat="server" CommandName="Cancel" Text="Clear" />
+                                </li>
+                            </InsertItemTemplate>
+                            <ItemSeparatorTemplate>
+                                <br />
+                            </ItemSeparatorTemplate>
+                            <ItemTemplate>
+                                <li style="background-color: #E0FFFF;color: #333333;">comment:
+                                    <asp:Label ID="commentLabel" runat="server" Text='<%# Eval("comment") %>' />
+                                    <br />
+                                </li>
+                            </ItemTemplate>
+                            <LayoutTemplate>
+                                <ul id="itemPlaceholderContainer" runat="server" style="font-family: Verdana, Arial, Helvetica, sans-serif;">
+                                    <li runat="server" id="itemPlaceholder" />
+                                </ul>
+                                <div style="text-align: center;background-color: #5D7B9D;font-family: Verdana, Arial, Helvetica, sans-serif;color: #FFFFFF;">
+                                    <asp:DataPager ID="DataPager1" runat="server">
+                                        <Fields>
+                                            <asp:NextPreviousPagerField ButtonType="Button" ShowFirstPageButton="True" ShowLastPageButton="True" />
+                                        </Fields>
+                                    </asp:DataPager>
+                                </div>
+                            </LayoutTemplate>
+                            <SelectedItemTemplate>
+                                <li style="background-color: #E2DED6;font-weight: bold;color: #333333;">comment:
+                                    <asp:Label ID="commentLabel" runat="server" Text='<%# Eval("comment") %>' />
+                                    <br />
+                                </li>
+                            </SelectedItemTemplate>
+                        </asp:ListView>  
                         <br />
-                    </li>
-                </AlternatingItemTemplate>
-                <EditItemTemplate>
-                    <li style="background-color: #999999;">comment:
-                        <asp:TextBox ID="commentTextBox" runat="server" Text='<%# Bind("comment") %>' />
                         <br />
-                        <asp:Button ID="UpdateButton" runat="server" CommandName="Update" Text="Update" />
-                        <asp:Button ID="CancelButton" runat="server" CommandName="Cancel" Text="Cancel" />
-                    </li>
-                </EditItemTemplate>
-                <EmptyDataTemplate>
-                    No data was returned.
-                </EmptyDataTemplate>
-                <InsertItemTemplate>
-                    <li style="">comment:
-                        <asp:TextBox ID="commentTextBox" runat="server" Text='<%# Bind("comment") %>' />
+                        <asp:TextBox ID="commentBox" runat="server" Height="51px" Width="271px"></asp:TextBox>
+                        <asp:Button ID="btnSubmitComment" runat="server" OnClick="btnSubmitComment_Click" Text="Submit" />
                         <br />
-                        <asp:Button ID="InsertButton" runat="server" CommandName="Insert" Text="Insert" />
-                        <asp:Button ID="CancelButton" runat="server" CommandName="Cancel" Text="Clear" />
-                    </li>
-                </InsertItemTemplate>
-                <ItemSeparatorTemplate>
-                    <br />
-                </ItemSeparatorTemplate>
-                <ItemTemplate>
-                    <li style="background-color: #E0FFFF;color: #333333;">comment:
-                        <asp:Label ID="commentLabel" runat="server" Text='<%# Eval("comment") %>' />
-                        <br />
-                    </li>
-                </ItemTemplate>
-                <LayoutTemplate>
-                    <ul id="itemPlaceholderContainer" runat="server" style="font-family: Verdana, Arial, Helvetica, sans-serif;">
-                        <li runat="server" id="itemPlaceholder" />
-                    </ul>
-                    <div style="text-align: center;background-color: #5D7B9D;font-family: Verdana, Arial, Helvetica, sans-serif;color: #FFFFFF;">
-                        <asp:DataPager ID="DataPager1" runat="server">
-                            <Fields>
-                                <asp:NextPreviousPagerField ButtonType="Button" ShowFirstPageButton="True" ShowLastPageButton="True" />
-                            </Fields>
-                        </asp:DataPager>
-                    </div>
-                </LayoutTemplate>
-                <SelectedItemTemplate>
-                    <li style="background-color: #E2DED6;font-weight: bold;color: #333333;">comment:
-                        <asp:Label ID="commentLabel" runat="server" Text='<%# Eval("comment") %>' />
-                        <br />
-                    </li>
-                </SelectedItemTemplate>
-            </asp:ListView>  
-            <br />
-            <br />
-            <asp:TextBox ID="commentBox" runat="server" Height="51px" Width="271px"></asp:TextBox>
-            <asp:Button ID="btnSubmitComment" runat="server" OnClick="btnSubmitComment_Click" Text="Submit" />
-            <br />
-            <asp:Label runat="server" ID="invalidCommentInfo"></asp:Label>
+                        <asp:Label runat="server" ID="invalidCommentInfo"></asp:Label>
+                    </ContentTemplate>
+            </asp:UpdatePanel> 
             <hr />
             <footer Style="position: absolute; bottom: -341px; left: 13px;">
             </footer>
